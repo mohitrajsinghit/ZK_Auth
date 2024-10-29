@@ -47,6 +47,9 @@ This project is a **Zero-Knowledge Proof (ZK Proof)** based authentication front
 
 ## Implementation Details
 
+# You can watch here the project video and Frontend design
+https://drive.google.com/file/d/1AqDXwX9nQn_685Zf_rasRlq0ICquyEqw/view?usp=sharing
+
 ### Registration Flow
 
 1. **Registration Page**: Users input a username and password.
